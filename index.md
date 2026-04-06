@@ -9,3 +9,8 @@ I just made first try
 ```javascript
 var myVar = "Hello World";
 ```
+- [x] one be checked
+- [ ] one be not
+```
+- [ ] this is the syntax, "-" between []
+```
